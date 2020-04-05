@@ -1,26 +1,3 @@
-Skip to content
-Why GitHub? 
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-
-Sign in
-Sign up
-alexisadorn
-/
-Tic-Tac-Toe-Ruby
-1013
- Code Issues 0 Pull requests 0 Actions Projects 0 Security Insights
-Join GitHub today
-GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
-
-Tic-Tac-Toe-Ruby/oo-tic-tac-toe-v-000/lib/tic_tac_toe.rb /
-@alexisadorn alexisadorn Tic Tac Toe labs
-8f439e7 on Mar 28, 2017
-141 lines (121 sloc)  2.28 KB
-  
 class TicTacToe
 
   WIN_COMBINATIONS = [
